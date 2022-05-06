@@ -371,7 +371,7 @@
 #resources_calendar_widget h1,#resources_calendar_widget h2,#resources_calendar_widget h3,#resources_calendar_widget h4{
 	margin:0;
 	font-family:inherit;
-	font-weight:bold;
+	font-weight:lighter;
 	color:inherit;
 	text-rendering:optimizelegibility;
 	font-family:sans-serif;
