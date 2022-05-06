@@ -1,5 +1,5 @@
 (function (namespace) {
-  var selected_date = '2022-05-05';
+ 
 
   var checkForjQuery = function() {
     return window.jQuery && jQuery.fn && /^1\.[3-9]/.test(jQuery.fn.jquery);
