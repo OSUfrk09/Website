@@ -16,7 +16,7 @@
     styles.attr({
       type: 'text/css',
       rel: 'stylesheet',
-      href: 'https://drive.google.com/uc?id=16eMO8gkT-GIc1J9ZRMyaeorua2s87ttJ'
+      href: 'https://cdn.jsdelivr.net/gh/OSUfrk09/Website/style.css'
     });
     widgetQuery("head").append(styles);
   };
