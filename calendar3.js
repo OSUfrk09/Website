@@ -16,7 +16,7 @@
     styles.attr({
       type: 'text/css',
       rel: 'stylesheet',
-      href: ''
+      href: 'https://cdn.jsdelivr.net/gh/OSUfrk09/Website/style.css'
     });
     widgetQuery("head").append(styles);
   };
