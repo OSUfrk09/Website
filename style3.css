@@ -335,7 +335,7 @@
 }
 #resources_calendar_widget{
 	font-family:sans-serif;
-	color:#555047;
+	color:#de9209;
 	font-size:14px
 }
 #resources_calendar_widget *{
@@ -1066,4 +1066,3 @@ html.kiosk_warden_revealed #resources_calendar_widget #kiosk_warden{
 		page-break-inside:avoid
 }
 }
-
