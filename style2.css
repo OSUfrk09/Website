@@ -836,7 +836,7 @@ html.kiosk_warden_revealed #resources_calendar_widget #kiosk_warden{
 	height:21px;
 	position:relative;
 	top:2px;
-	background:transparent url() no-repeat 0 0;
+	background:transparent url(https://d22ha87hnlukju.cloudfront.net/assets/icons/widget/widget-sprite-19f5a78ccfec76231806cb730dcf5573aeb7c2a18aadfd0fcc9daa3fb0627468.png) no-repeat 0 0;
 	display:inline-block;
 	*display:inline;
 	zoom:1
@@ -846,7 +846,7 @@ html.kiosk_warden_revealed #resources_calendar_widget #kiosk_warden{
 }
 @media (-webkit-min-device-pixel-ratio: 1.5),(min-device-pixel-ratio: 1.5),(min-resolution: 1.5dppx){
 	#resources_calendar_widget .rc-btn_wrap{
-		background-image:url();
+		background-image:url(https://d22ha87hnlukju.cloudfront.net/assets/icons/widget/widget-sprite-2x-1d29e554d5c08208242f6d865ab847b4bf15fecb2ecebf71fb87a5c096a06ced.png);
 		background-size:42px 21px
 }
 }
@@ -1066,5 +1066,4 @@ html.kiosk_warden_revealed #resources_calendar_widget #kiosk_warden{
 		page-break-inside:avoid
 }
 }
-
 
