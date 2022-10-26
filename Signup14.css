@@ -245,7 +245,12 @@
 }
 
 #mc_embed_signup #mce-error-response {
+  color: #fff;
   display: none;
+  font-size: 12px;
+  text-align: right;
+  width: 100%;
+  padding: 0px;
 }
 
 #mc_embed_signup #mce-success-response {
