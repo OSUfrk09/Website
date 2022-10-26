@@ -75,7 +75,7 @@
   clear: left;
   position: relative;
   width: 100%;
-  padding-bottom: 3%;
+  padding-bottom: 2%;
   min-height: 50px;
   display: grid;
 }
@@ -249,8 +249,12 @@
 }
 
 #mc_embed_signup #mce-success-response {
-  color: #529214;
+  color: #fff;
   display: none;
+  font-size: 12px;
+  text-align: right;
+  width: 100%;
+  padding: 0px;
 }
 
 #mc_embed_signup label.error {
