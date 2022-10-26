@@ -44,12 +44,13 @@
   cursor: pointer;
   display: inline-block;
   font: 15px Lulo Clean, sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: bold;
   height: 50px;
   line-height: 32px;
   margin: 0 5px 10px 0;
   padding: 0 22px;
+  letter-spacing: 3px;
   text-align: center;
   text-decoration: none;
   vertical-align: top;
