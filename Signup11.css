@@ -101,6 +101,8 @@
 #mc_embed_signup .mc-field-group input {
   display: block;
   width: 100%;
+  font-size: 18px;
+  font: Avenir, sans-serif;
   padding: 8px 0;
   text-indent: 2%;
 }
