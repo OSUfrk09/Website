@@ -18,12 +18,11 @@
           <th class=\"rc-time_col\">
             <div class=\"rc-table_sleeve\"> Time </div>
           </th>
-         
-          <th colspan=\"2\">
-            <div class=\"rc-table_sleeve\"> Event <input id=\"search_input\" placeholder=\"Filter...\" type=\"text\" /> </div>
-             <th class=\"rc-primary_col\">
+          <th class=\"rc-primary_col\">
             <div class=\"rc-table_sleeve\"> Location </div>
           </th>
+          <th colspan=\"2\">
+            <div class=\"rc-table_sleeve\"> Event <input id=\"search_input\" placeholder=\"Filter...\" type=\"text\" /> </div>
           </th>
         </tr>
       </thead>
