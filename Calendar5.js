@@ -30,9 +30,9 @@
       }
 
     widgetQuery.ajax({
-      url: "https://calendar.planningcenteronline.com/widgets/eJxj4ajmsGLLz2T2i2C04kotzi8oAQkUeyrxJ-bkxKeWpeaVFLNZsbmGWLGVZjK__8NnxV5W4qkkWFCalJOZHF-SmZtazGbNEWLFXZBYlJhbXM0AAN1NGR8=7a2c0aba334cf4c2e8f6474a4fbc5f636206b1e4.json",
+      url: "https://raw.githack.com/OSUfrk09/Website/Master/CalendarFormat7.json",
       data: {'date': date},
-      dataType: 'jsonp',
+      dataType: 'json',
       success: loadRemoteHtml
     });
   };
