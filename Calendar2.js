@@ -30,7 +30,7 @@
       }
 
     widgetQuery.ajax({
-      url: "https://raw.githack.com/OSUfrk09/Website/Master/CalendarFormat1.json",
+      url: "https://raw.githack.com/OSUfrk09/Website/Master/CalendarFormat2.json",
       data: {'date': date},
       dataType: 'jsonp',
       success: loadRemoteHtml
